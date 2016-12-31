@@ -2,8 +2,6 @@ Data Codebook for Coursera Getting and Cleaning Data Course Project
 
 The R script run_analysis.R downloads raw data as a zip file, loads all necessary data into R, and processes it to create the tidy data output file tidydata.txt.
 
-Study Design
-
 Experiments were carried out based on a group of 30 volunteers that were within an age bracket of 19-48 years, irrespective of gender. 
 Each individual performed six activities (walking, walking upstairs, walking downstairs, sitting, standing, and laying) while he/she was wearing a smartphone on his/her waist. 
 Using an accelerometer and gyroscope embedded into the cellphone, both a 3-axial linear acceleration (tAcc-XYZ) and a 3-axial angular velocity (tGyro-XYZ) time domain signals were captured at a constant 50Hz rate. 
